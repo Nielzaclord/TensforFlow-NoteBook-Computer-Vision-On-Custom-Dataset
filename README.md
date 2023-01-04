@@ -8,6 +8,9 @@ Send a Cryptocurrency Price every time you need in a simple tweet on Twitter, wi
 
 #### https://twitter.com/bot_ethereum
 
+## Twitter API
+##### You need to have elevated access on the Twitter API and replace XXXX with your keys.
+
 ## Packages :
 
 `import tweepy`
