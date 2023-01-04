@@ -10,10 +10,10 @@ Send a Cryptocurrency Price every time you need in a simple tweet on Twitter, wi
 
 ## Packages :
 
-import tweepy
+`import tweepy`
 
-from Historic_Crypto import LiveCryptoData
+`from Historic_Crypto import LiveCryptoData`
 
-from Historic_Crypto import HistoricalData
+`from Historic_Crypto import HistoricalData`
 
-import emoji
+`import emoji`
