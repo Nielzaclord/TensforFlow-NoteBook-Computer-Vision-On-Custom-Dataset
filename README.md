@@ -3,6 +3,11 @@
 Ce document, un notebook Jupyter, a été spécifiquement conçu pour entraîner un modèle TensorFlow, un modèle choisi parmi ceux disponibles dans le TensorFlow Models Zoo, une collection open source de modèles d'apprentissage automatique pré-entraînés fournies par TensorFlow. 
 
 
+
+<iframe width="560" height="315" src="https://youtu.be/90Nx0u7CSMg" frameborder="0" allowfullscreen></iframe>
+
+
+
 ![Texte alternatif](https://raw.githubusercontent.com/Nielzaclord/TensforFlow-NoteBook-Computer-Vision-On-Custom-Dataset/main/3f012e52-6799-4601-847f-79c758881fdd.png)
 
 
