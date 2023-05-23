@@ -4,7 +4,8 @@ Ce document, un notebook Jupyter, a été spécifiquement conçu pour entraîner
 
 
 
-!<iframe width="560" height="315" src="https://youtu.be/90Nx0u7CSMg" frameborder="0" allowfullscreen></iframe>
+### Vidéo : 
+https://youtu.be/90Nx0u7CSMg
 
 
 
